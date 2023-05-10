@@ -30,6 +30,17 @@ A new way to create .NET projects with ease.
 - Cross platform
 
 
+## Configuration
+
+Spark.NET is setup to be highly customizable. With that being said, there is a certain way to go about it.
+
+For logging, the project uses Serilog. The .API project uses the AspNetCore Sink, while the rest use the normal Serilog.
+
+The configurations for each are as follows:
+- .API, Program.cs
+- .Shared.Infrastructure, ServiceStartup.ConfigureInfrastructureLogger()
+
+
 ## Installation
 
 Install my-project with npm
