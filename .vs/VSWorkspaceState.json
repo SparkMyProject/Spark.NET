@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Spark.NET.API",
+    "\\Spark.NET.API\\Spark.NET.API",
+    "\\Spark.NET.Shared",
+    "\\Spark.NET.Shared\\Spark.NET.Shared.Entities",
+    "\\Spark.NET.Shared\\Spark.NET.Shared.Infrastructure",
+    "\\Spark.NET.Shared\\Spark.NET.Shared.Infrastructure\\Services"
+  ],
+  "SelectedNode": "\\Spark.NET.API\\Spark.NET.API\\Spark.NET.API.sln",
+  "PreviewInSolutionExplorer": false
+}
